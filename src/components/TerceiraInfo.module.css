@@ -1,0 +1,21 @@
+.TerceiraInfo{
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 60px;
+}
+.TerceiraInfotitulo{
+    color: white;
+    margin-left: 200px;
+    background-color: black;
+    width: 700px;
+    height: 30px;
+    margin-left: 300px;
+}
+
+.Imagem img{
+    height: 200px;
+    width: 300px;
+    margin-left: 70px;
+}

@@ -1,0 +1,18 @@
+
+.Rodape{
+    background-color: black;
+    height:160px;
+}
+
+body{
+    margin: 0;
+}
+
+.infos{
+    color: white;
+    display: block;
+    margin: 50px 50px;
+    text-align: center;
+    margin-bottom: -20px;
+}
+
